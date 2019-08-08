@@ -26,7 +26,7 @@ Test dataset begins | September 16, 2019
 Submission close | September 19, 2019
 Result announcement | September 20, 2019
 Working paper | October 7, 2019
-Workshop and Winners announcement | October 14, 2019s
+Workshop and Winners announcement | October 14, 2019
 
 ## Problem
     
