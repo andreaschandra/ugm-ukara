@@ -1,1 +1,8 @@
+*.zip
+*.csv
+*.pt
+*.pkl
+*.rar
+*.model
+*.npy
 .ipynb_checkpoints/
